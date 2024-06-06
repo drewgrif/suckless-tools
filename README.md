@@ -1,6 +1,6 @@
 # suckless tools
 
-This is a script that will install the latest tools from https://git.suckless.org
+This is a script (intended for Debian Bookworm) that will install the latest tools from https://git.suckless.org
 
 * dwm
 * st
@@ -24,6 +24,7 @@ Choose whether you want:
 1. The aforementioned suckless tools without modification.
 2. The nicely configured aforementioned suckless tools that I use everyday.
 
+NOTE: The configured dwm has a list of keybinds at Super + h.
 
 Further, if you want a customized dwm with these patches:
 
