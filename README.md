@@ -43,4 +43,5 @@ Further, if you want a customized dwm with these patches:
 
 My config looks like this
 
-![](2024-06-04-173427_3440x1440_scrot.png =800x)
+
+![2024-06-04-173427_3440x1440_scrot](https://github.com/drewgrif/suckless-tools/assets/11249871/bd3a367f-ddf1-4d29-9c59-cdb61efc999a)
